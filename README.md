@@ -67,8 +67,8 @@ Setelah menyelesaikan seluruh modul, mahasiswa diharapkan mampu:
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/devnolife/python-dasar.git
-cd python-dasar
+git clone https://github.com/Lab-IF/lab-python
+cd lab-python
 ```
 
 ### 2. Buat Virtual Environment
